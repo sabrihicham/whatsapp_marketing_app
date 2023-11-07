@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048607460719",
+    "project_id": "whatsapp-marketing-165d3",
+    "storage_bucket": "whatsapp-marketing-165d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048607460719:android:ac2c0ca34005f52d6c2c9a",
+        "android_client_info": {
+          "package_name": "com.whatsappmarketing.arab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048607460719-msa3gau4t8hs77boqmuqfcfujk3rg2fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1W9we_qv8qHsZ0P68j-JA0A0dTfupSFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048607460719-msa3gau4t8hs77boqmuqfcfujk3rg2fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
